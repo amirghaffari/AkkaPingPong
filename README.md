@@ -1,8 +1,6 @@
 A Ping Pong Scala Akka Actors Example
 -----------
 
-Introduction
-------------
 This example uses Akka actors to implement a ping pong game. There are two versions of the application, i.e. blocking and unblocking. The unblocking version uses [Futures](http://doc.akka.io/docs/akka/snapshot/scala/futures.html) to get the Pong response. 
 
 How to build and run
